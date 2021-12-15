@@ -12,6 +12,11 @@
     limitations under the License.
 -->
 <resources>
+<string-array name="configs_base">
+        <!--
+            System
+        -->
         <!-- Allow users to disable location indicators in Developer Options -->
         <item>privacy/location_indicator_settings_enabled=true</item>
+</string-array>
 </resources>
