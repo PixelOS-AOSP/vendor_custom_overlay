@@ -10,4 +10,5 @@ PRODUCT_COPY_FILES += \
 
 # RRO Overlays
 PRODUCT_PACKAGES += \
+    CustomPixelLauncherOverlay \
     NavigationBarModeGesturalOverlayFS
